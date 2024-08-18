@@ -3,7 +3,7 @@ ILI9488 DMA SPI STM32 4 (3.95) INCH STM32F103 TOUCH
 
 https://www.youtube.com/watch?v=tX89CJfzWDY
 
-for better touch next code https://github.com/offpic/Oscilloscope-ILI9488-STM32
+for better touch next code https://github.com/offpic/4-3.95-ILI9488-FRAME-BUFFER-SPI-STM32-STM32F401-WS2812-PWM-DMA
 
 ![Screenshot_66](https://github.com/offpic/ILI9488-DMA-SPI-STM32-4-3.95-INCH-STM32F103-TOUCH/assets/31142397/aefbf2cf-a684-4012-81f2-aae67a20f111)
 
